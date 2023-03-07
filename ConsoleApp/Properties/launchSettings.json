@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "ConsoleApp/firtsApp": {
+      "commandName": "Project",
+      "commandLineArgs": "30000\r\n30"
+    }
+  }
+}
