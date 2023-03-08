@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f9HTjBpJCfGIz3dJIQA5x6EkfiXaNAR1uhUBn4bYlHPRngF/+/A1XHszkkVcClBD2otzU30VK8QtnU7iOpm6og==",
+  "dgSpecHash": "4NRs7ZLUY3bD/pTVtOM73q4+Hx9lzXxBucrVcMfWWG+7tDlHGhPOPaivrZWnJgvx1ku+9u9699C9csoOmlLZmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lukas\\source\\repos\\ConsoleApp\\ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\lukas\\Desktop\\CSharpConsole\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
